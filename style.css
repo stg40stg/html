@@ -118,6 +118,7 @@
 .pluses {
 	width: 100%;
 	margin: 0;
+	box-sizing: border-box;
 	/*outline: 2px solid black;*/
 	padding: 50px;	
 }
@@ -145,7 +146,7 @@
 .pluses-list-2 {
 	float: right;
 	margin-top: 29px;
-	padding-right: 163px;
+	padding-right: 73px;
 
 }
 .pluses-details {
