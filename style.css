@@ -202,7 +202,7 @@ details[open] summary:before {
 .scrinshot {
 	width: 100%;
 	margin: 0;
-	outline: 2px solid black;
+	/*outline: 2px solid black;*/
 	box-sizing: border-box;
 	padding: 50px;
 }
